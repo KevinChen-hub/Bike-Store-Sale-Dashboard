@@ -9,4 +9,6 @@ The dataset used for the dashboard is obtained by https://www.kaggle.com/dataset
 - Creating pivot table, using pivot table to analyze the data
 - Creating Charts, Using the pivot table to create charts that displays information, and using slicers for the user to toggle the data
 - Dashboard Creation, putting the charts together for a dashbaord that displays the information
-  
+# Instruction for use
+download the excel file of the Bike Store Sale Dashboard.xlsx 
+explore the interactive dashboard to gain insight on the sales of the bike store
