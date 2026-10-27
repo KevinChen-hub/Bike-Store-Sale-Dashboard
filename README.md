@@ -1,7 +1,7 @@
 # Bike Store Sale Dashboard
 # Project Overview
 This project involves creating a dashboard for the sales at a bike store, the goal is to provide a user friendly dashboard that for the users to interact with the data and showcase the bike sales based on different demographics.
-<img width="1347" height="735" alt="DashBoard Screenshot" src="https://github.com/user-attachments/assets/93591f66-f674-4ab5-9b8e-151b28b6e17b" />
+<img width="1361" height="735" alt="DashBoard Screenshot" src="https://github.com/user-attachments/assets/eca5c658-aede-47aa-85cb-cd1218b43c0d" />
 # Dataset
 The dataset used for the dashboard is obtained by https://www.kaggle.com/datasets/prepinstaprime/europe-bike-store-sales/data
 # Keysteps in the project
